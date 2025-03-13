@@ -1,0 +1,24 @@
+ <!-- <style>
+                            .contenedor {
+                                display: flex;
+                                flex-direction: column; /* Apila las imágenes verticalmente */
+                                justify-content: center; /* Centra las imágenes horizontalmente */
+                                align-items: center; /* Centra las imágenes verticalmente */
+                                padding-top: 50px; /* Ajusta la separación superior */
+                            }
+                            
+                            .vaca {
+                                transform: translateY(40px); /* Baja la vaca */
+                            }
+                            
+                            .ovni {
+                                transform: translateY(-500px); /* Sube el ovni */
+                            }
+                            
+                        </style>
+
+                        <div class="contenedor">
+                            <img src="vaca.png" alt="Vaca" class="vaca">
+                            <img src="ovni.png" alt="OVNI" class="ovni">
+                        </div>
+                         -->
